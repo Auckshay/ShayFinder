@@ -1,6 +1,6 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "PCB","For mounting and connecting all components",5,5.00,"http://pcbway.com/orderonline.aspx?outsideid=923c8937-0e41-439f-b9aa-470abffc90b2","PCBWAY"
 "220 ohm Reistors","so LEDs don't burn out",1,0.99,"https://www.aliexpress.us/item/3256811700129159.html","AliExpress"
-"LEDs","indicator for when switch is pressed (looks cool))",1,2.32,"https://www.aliexpress.us/item/3256807854481666.html","AliExpress"
+"LEDs","indicator for when switch is pressed (looks cool)",1,2.32,"https://www.aliexpress.us/item/3256807854481666.html","AliExpress"
 "Keyboard Switches (Cherry MX Design)","Human Interaction for controlling device",1,3.13,"https://www.aliexpress.us/item/3256806762410255.html","AliExpress"
 "Seeedorino XIAO RP2040 ","The brains for my entire project",1,10.99,"https://a.co/d/0gEoytSN","Amazon"
